@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	color: #D2D2D2;
+	font-weight: 100;
+	font-size: 16px;
+	background-color: #FDFDFD;
+}
+
+h1 {
+	color: #333;
+}
+
+a {
+	text-decoration: none;
+	color: #D2D2D2;
+}
+
+p {
+	font-size: 2em;
+}
+
+svg {
+	width: 50vw;
+	margin: 8em 0 3em;
+}
